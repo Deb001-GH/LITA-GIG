@@ -13,3 +13,5 @@ WHERE CONDITION = TRUE
 ```
 ---
 Happy as a bird that flies without perching
+
+My Sales Analysis Dashboard.PNG
